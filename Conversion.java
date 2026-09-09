@@ -23,12 +23,14 @@ public class Conversion {
         // System.out.println(b); // 300 % 256 = 44
 
         // Truncating conversion
-        float f = 10.99f;
+        // float f = 10.99f;
 
-        int i ;
+        // int i ;
 
-        i= (int)f;
-        System.out.println(i); // 10
-        
+        // i= (int)f;
+        // System.out.println(i); // 10
+
+        // boolean to any data type 
+        // these conversion are not possible in java
         }
 }
